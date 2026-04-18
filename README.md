@@ -32,12 +32,14 @@
 
 ### 🔹 AI & Computer Vision
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![Yolov8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ### 🔹 Software & Tools
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -45,6 +47,7 @@
 ## 🚀 Key Projects & Experience
 
 - **TÜBİTAK 2209-A:** AI-driven object sorting system integrated with Siemens S7-1200 PLC.
+- **AI Modeling:** Developing machine learning models using **TensorFlow** and **NumPy** within the **Anaconda** environment.
 - **ASELSAN UGES:** Internship experience in transportation and energy systems.
 - **Motor Control:** Real-time control via Mitsubishi FR-D700 Inverters and Modbus communication.
 - **Control & Automation Lab:** Hands-on experience with industrial sensors and PLC logic.
