@@ -40,7 +40,6 @@ Focused on integrating **Industrial Automation (PLC)** with **AI-driven Computer
 ### 🔹 Software & Tools
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-000000?style=for-the-badge)
 
 ---
 
