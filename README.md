@@ -11,23 +11,18 @@
   <strong>Konya Technical University '25</strong>
 </p>
 
----
-
-## 🚀 Professional Focus
-
-- **Industrial Automation:** PLC programming (Siemens S7-1200, Mitsubishi), HMI Design, and Modbus RTU/TCP protocols.
-- **Control Theory:** Real-time motor control, PID applications, and system modeling with MATLAB/Simulink.
-- **Computer Vision:** Real-time object detection and classification using OpenCV & Yolov8.
-- **Embedded Systems:** Raspberry Pi integration for industrial IoT applications.
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadullah-akin-kara/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadullahakinkara@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sadullah-akin-kara/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:sadullahakinkara@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
-# 💻 Core Tech Stack
+# 💻 Tech Stack
 
 ### 🔹 Automation & Control
 ![Siemens](https://img.shields.io/badge/Siemens_TIA_Portal-009999?style=for-the-badge&logo=siemens&logoColor=white)
@@ -47,8 +42,15 @@
 
 ---
 
+## 🚀 Key Projects & Experience
+
+- **TÜBİTAK 2209-A:** AI-driven object sorting system integrated with Siemens S7-1200 PLC.
+- **ASELSAN UGES:** Internship experience in transportation and energy systems.
+- **Motor Control:** Real-time control via Mitsubishi FR-D700 Inverters and Modbus communication.
+- **Control & Automation Lab:** Hands-on experience with industrial sensors and PLC logic.
+
+---
+
 ## 📌 Engineering Philosophy
 
 > Modern industrial solutions require a bridge between classical control systems and modern AI. I strive to build that bridge through efficient, scalable, and reliable engineering.
-
----
