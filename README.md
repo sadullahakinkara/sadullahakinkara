@@ -1,11 +1,15 @@
 <h1 align="center">Sadullah Akın KARA</h1>
-<h3 align="center">Electrical-Electronics Engineer | Control & Automation Specialist</h3>
+<h3 align="center">Electrical-Electronics Engineer | Control & Automation</h3>
 
 <p align="center">
-  <strong>Konya Technical University - Electrical & Electronics Engineering (Ranking 3rd 🎓)</strong>
+  Engineering graduate (Ranking 3rd 🎓) specialized in <b>Industrial Automation</b> and <b>Computer Vision</b>.
+  <br>
+  I build smart systems by bridging <b>PLC-based control</b> with <b>AI-driven algorithms</b>.
 </p>
 
-Focused on integrating **Industrial Automation (PLC)** with **AI-driven Computer Vision**. Experienced in developing end-to-end control systems, from low-level sensor integration to high-level algorithmic sorting.
+<p align="center">
+  <strong>Konya Technical University '25</strong>
+</p>
 
 ---
 
