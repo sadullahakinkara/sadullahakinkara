@@ -4,7 +4,11 @@
 <p align="center">
   Engineering graduate (Ranking 3rd 🎓) specialized in <b>Industrial Automation</b> and <b>Computer Vision</b>.
   <br>
-  I bridge <b>IT (AI/Software)</b> and <b>OT (Industrial Systems)</b> to build smarter factories.
+  I build smart systems by bridging <b>PLC-based control</b> with <b>AI-driven algorithms</b>.
+</p>
+
+<p align="center">
+  <strong>Konya Technical University '25</strong>
 </p>
 
 <p align="center">
@@ -18,47 +22,38 @@
 
 ---
 
-## 🛠 Tech Stack & Tools
+# 💻 Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Industrial Automation** | Siemens TIA Portal (S7-1200), Mitsubishi FX5U, Modbus RTU/TCP, HMI Design |
-| **Computer Vision** | OpenCV, YOLOv8, MediaPipe, Image Processing |
-| **Programming** | Python (Advanced), C, MATLAB |
-| **AI & Data** | TensorFlow, NumPy, Pandas, Anaconda |
-| **Hardware** | Raspberry Pi 5, PLC-Python Integration, Pneumatic Systems |
+### 🔹 Automation & Control
+![Siemens](https://img.shields.io/badge/Siemens_TIA_Portal-009999?style=for-the-badge&logo=siemens&logoColor=white)
+![Mitsubishi](https://img.shields.io/badge/Mitsubishi_Electric-ED1C24?style=for-the-badge&logo=mitsubishielectric&logoColor=white)
+![Modbus](https://img.shields.io/badge/Modbus_RTU/TCP-005A9C?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-ED6B21?style=for-the-badge&logo=mathworks&logoColor=white)
 
----
+### 🔹 AI & Computer Vision
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![Yolov8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge)
 
-## 🚀 Featured Projects
-
-### 🏗 [AI-Driven Industrial Sorting System](https://github.com/Sadullah-Akin-Kara/AI-Based-Industrial-Sorting-System) (TÜBİTAK 2209-A)
-- Integrated **Raspberry Pi 5** with **Siemens S7-1200 PLC**.
-- Developed real-time Color, Shape, and QR recognition algorithms.
-- Designed a high-speed pneumatic sorting mechanism.
-
-### 🖐 [HCI Motor Control](https://github.com/Sadullah-Akin-Kara/Face-Auth-Hand-Gesture-Motor-Control)
-- Contactless industrial control using **Face Recognition** and **Hand Gestures**.
-- Managed motor speeds through **Mitsubishi FX5U PLC** and **FR-D700 Inverter**.
+### 🔹 Software & Tools
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📈 GitHub Insights
+## 🚀 Key Projects & Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadullah-Akin-Kara&show_icons=true&theme=tokyonight" alt="Sadullah's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadullah-Akin-Kara&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🎯 Current Interests & Goals
-- 🔭 **Working on:** Advanced Image Processing for Industrial Safety.
-- 📚 **Learning:** Mastering C++ for Embedded Systems.
-- ✍️ **Preparing for:** Academic advancement through YDS and ALES exams.
+- **TÜBİTAK 2209-A:** AI-driven object sorting system integrated with Siemens S7-1200 PLC.
+- **AI Modeling:** Developing machine learning models using **TensorFlow** and **NumPy** within the **Anaconda** environment.
+- **ASELSAN UGES:** Internship experience in transportation and energy systems.
+- **Motor Control:** Real-time control via Mitsubishi FR-D700 Inverters and Modbus communication.
+- **Control & Automation Lab:** Hands-on experience with industrial sensors and PLC logic.
 
 ---
 
-<p align="center">
-  <i>"Efficiency is doing things right; effectiveness is doing the right things."</i>
-</p>
+## 📌 Engineering Philosophy
+
+> Modern industrial solutions require a bridge between classical control systems and modern AI. I strive to build that bridge through efficient, scalable, and reliable engineering.
