@@ -29,6 +29,7 @@
 ![Mitsubishi](https://img.shields.io/badge/Mitsubishi_Electric-ED1C24?style=for-the-badge&logo=mitsubishielectric&logoColor=white)
 ![Modbus](https://img.shields.io/badge/Modbus_RTU/TCP-005A9C?style=for-the-badge)
 ![MATLAB](https://img.shields.io/badge/MATLAB-ED6B21?style=for-the-badge&logo=mathworks&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel_Logging-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### 🔹 AI & Computer Vision
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
