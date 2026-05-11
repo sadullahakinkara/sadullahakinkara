@@ -2,7 +2,7 @@
 <h3 align="center">Electrical-Electronics Engineer | Control & Automation</h3>
 
 <p align="center">
-  Engineering graduate (Ranking 3rd 🎓) specialized in <b>Industrial Automation</b> and <b>Computer Vision</b>.
+  Engineering graduate (Ranking 3rd 🎓) specialized in <b>Industrial Automation</b> and <b>Computer Vision</b>. 
   <br>
   I build smart systems by bridging <b>PLC-based control</b> with <b>AI-driven algorithms</b>.
 </p>
