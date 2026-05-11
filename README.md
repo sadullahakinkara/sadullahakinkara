@@ -31,6 +31,11 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-ED6B21?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel_Logging-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
+### 🔹 Networking & Protocols
+![Profinet](https://img.shields.io/badge/PROFINET-009999?style=for-the-badge)
+![Ethernet](https://img.shields.io/badge/Ethernet%2FIP-005A9C?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-FF6F00?style=for-the-badge)
+
 ### 🔹 AI & Computer Vision
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -40,6 +45,7 @@
 
 ### 🔹 Software & Tools
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
